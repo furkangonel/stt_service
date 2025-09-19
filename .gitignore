@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+*.env
+*.env.*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs & caches
+*.log
+*.pot
+*.pyc
+*.pkl
+*.db
+*.sqlite3
+*.sqlite
+*.pid
+*.gz
+*.zip
+*.tar
+*.tgz
+*.bak
+*.swp
+*.swo
+
+# Coverage / testing
+.coverage
+coverage.xml
+htmlcov/
+.cache/
+.pytest_cache/
+.tox/
+.nox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# FastAPI / Uvicorn / PyInstaller builds
+dist/
+build/
+instance/
+*.pid
+*.lock
+
+# Jupyter / Notebooks
+.ipynb_checkpoints/
+*.ipynb
+*.jpnb
+
+# Audio / Data
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.opus
+*.npy
+*.npz
+
+# Model weights / large files
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Local configs
+config.yaml
+config.yml
+secrets.json

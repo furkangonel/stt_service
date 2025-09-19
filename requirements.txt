@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+torch
+faster-whisper
+resemblyzer
+spectralcluster
+librosa
+soundfile
+requests
+pydantic
