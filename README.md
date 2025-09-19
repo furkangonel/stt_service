@@ -14,11 +14,11 @@ This project is a simple **Speech-to-Text** service developed using **FastAPI**.
 
 ## Screen Shots
 
-![STT Service Swagger Interface](https://raw.githubusercontent.com/furkangonel/stt_service/assets/swagger_scene.png)
+![STT Service Swagger Interface](https://github.com/furkangonel/stt_service/blob/main/assets/swagger_scene.png)
 
-![Upload Endpoint](https://raw.githubusercontent.com/furkangonel/stt_service/assets/upload_endpoint.png)
+![Upload Endpoint](https://github.com/furkangonel/stt_service/blob/main/assets/upload_endpoint.png)
 
-![Response](https://raw.githubusercontent.com/furkangonel/stt_service/assets/response.png)
+![Response](https://github.com/furkangonel/stt_service/blob/main/assets/response.png)
 
 ---
 
